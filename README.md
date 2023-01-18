@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RodolfoRaffaele
 - 👀 I’m interested in Data Science, Finance, Python for Traders
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
